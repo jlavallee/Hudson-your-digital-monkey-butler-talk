@@ -1,54 +1,29 @@
+#    * vim:ts=2 
+        
 slides{
-slide{
-  em{Slidez}
-
-  A simple way to write slides.
-  \---;
-  Eric Wilhelm
-  http://scratchcomputing.com
-}
-slide{
-  This is a slide. 
-}
-slide{ This is another slide.  }
-slide{
-  This slide has a point
-
-  * simple
-  * bullets
-    * like em{so}
-      * see
-  * yay
-    * whee
-    * fun
-      * yep
-}
-slide{
-  Simple:
-
-  # TODO actually just load this file instead of explaining the present
-  # failure of the nested fatquote?  This manual recursion is confusing
-  # anyway.
-  pre{{{
-    slidez{
-      slide{This is a slide.}
-      slide{This is another slide.}
-      slide{
-        Simple:
-
-        pre{{{
-          slidez{
-            slide{This is a slide.}
-            ...
-          }
-        &#125;}}
-      }
+    slide{
+        em{Hudson and you}
+        Hudson - an Open Source continuous integration build system that is more fun than not!
+        \---;
+        Jeff Lavallee
+        jeff@zeroclue.com
     }
-  }}}
-}#slide;
-slide{
-  pre{
-    <html>blah</html>
-  }
-}
+    slide{
+        h3{ What is Hudson? }
+        short answer - a continuous integration build server
+        What does that mean?
+        * Hudson continuously builds software and runs tests
+    }
+    slide{
+        h2{Why?}
+    }
+    slide{
+        pre{
+            <html>blah</html>
+        }
+    }
+    slide{
+        An image: 
+            img[src=./screenshot_homepage.png]
+    }
 }#slides;
