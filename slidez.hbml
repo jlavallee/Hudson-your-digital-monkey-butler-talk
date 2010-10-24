@@ -49,7 +49,7 @@ slides{
     }
     slide{
         h3{build types}
-        * free-style 
+        * free-style
         * maven2
         * monitor
         * multi-configuration
@@ -104,7 +104,7 @@ slides{
         img[src=./hudson_homepage_with_new_job_labeled.png]
     }
     slide{
-        img[src=./slidez/hudson_homepage_admin_labeled.png]
+        img[src=./hudson_homepage_admin_labeled.png]
     }
     slide{
         demo...
