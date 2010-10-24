@@ -1,0 +1,35 @@
+---- Hudson talk outline
+
+* Brief intro
+   * what is hudson
+   * other CI tools
+   * introduce homepage
+* Brief tour
+* Creating a new build
+   * build types
+
+* Hudson administration
+   * installing hudson
+      * OS-specific packages
+      * Vanilla install
+   * upgrading hudson
+      * preparing the system for restart
+   * plugins
+
+* Hudson nodes
+   * creating a new node
+   * node status
+   * tagging
+
+* Perl projects in hudson
+   * TAP::Harness::JUnit
+
+* Hudson plugins
+   * SCM plugins
+   * testing plugins
+      * claim plugin
+   * HTML artifact plugin
+      * getting coverage reports from Perl projects
+   * fun plugins
+
+
