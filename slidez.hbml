@@ -60,6 +60,39 @@ slides{
         img[src=./hudson_test_specific_add_build_step_labeled.png]
     }
     slide{
+        img[src=./hudson_test_specific_save_labeled.png]
+    }
+    slide{
+        img[src=./hudson_test_specific_created.png]
+    }
+    slide{
+        img[src=./hudson_test_specific_running_1_labeled.png]
+    }
+    slide{
+        img[src=./hudson_test_specific_run_1_labeled.png]
+    }
+    slide{
+        img[src=./hudson_test_specific_build_1.png]
+    }
+    slide{
+        img[src=./hudson_test_specific_build_1_console_output.png]
+    }
+    slide{
+        img[src=./hudson_test_specific_change_job_setup_labeled.png]
+    }
+    slide{
+        img[src=./hudson_test_specific_add_build_steps_labeled.png]
+    }
+    slide{
+        img[src=./hudson_test_specific_post_build_actions_labeled.png]
+    }
+    slide{
+        img[src=./hudson_test_specific_with_test_results_labeled.png]
+    }
+    slide{
+        img[src=./hudson_homepage_with_new_job_labeled.png]
+    }
+    slide{
         demo...
     }
 }#slides;
