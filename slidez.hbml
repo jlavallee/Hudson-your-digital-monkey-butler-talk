@@ -13,7 +13,12 @@ slides{
     slide{
         h3{ What is Hudson? }
         a continuous integration build server
-        * Hudson continuously builds software and runs tests
+        * Hudson continuously:
+           * looks for commits
+           * builds when it finds changes
+           * runs tests
+           * generates build artifacts
+        * can do a lot more
     }
     slide{
         h3{ Others }
@@ -22,11 +27,37 @@ slides{
         * BuildBot
     }
     slide{
-        A hudson install: 
-        img[src=./screenshot_homepage.png]
+        img[src=./hudson_homepage.png]
     }
     slide{
-        img[src=./screenshot_homepage_builds.png]
+        img[src=./hudson_homepage_labeled.png]
+    }
+    slide{
+        img[src=./hudson_log_in_labeled.png]
+    }
+    slide{
+        img[src=./hudson_logged_in_labeled.png]
+    }
+    slide{
+        img[src=./hudson_perl_redis_labeled.png]
+    }
+    slide{
+        img[src=./hudson_new_job_button.png]
+    }
+    slide{
+        img[src=./hudson_new_job.png]
+    }
+    slide{
+        img[src=./hudson_test_specific_configure_labeled.png]
+    }
+    slide{
+        img[src=./hudson_test_specific_git_url_labeled.png]
+    }
+    slide{
+        img[src=./hudson_test_specific_build_trigger_labeled.png]
+    }
+    slide{
+        img[src=./hudson_test_specific_add_build_step_labeled.png]
     }
     slide{
         demo...
