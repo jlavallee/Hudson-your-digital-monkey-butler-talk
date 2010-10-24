@@ -5,8 +5,37 @@
    * other CI tools
    * introduce homepage
 * Brief tour
+   * new features once logged in
+   * example job
 * Creating a new build
    * build types
+      * free-style 
+      * maven2
+      * monitor
+      * multi-configuration
+      * copy existing
+   * Source Code Management
+   * Build Triggers
+      * Build after other projects
+      * Trigger remotely
+      * Buid periodically
+      * Poll SCM
+   * Build -> add build step
+      * execute shell
+      * Invoke Ant
+      * Execute Windows batch command
+      * Invoke top-level Maven targets
+   * Post Build Actions
+      * Archive the artifacts
+      * Build other projects
+      * Publish JUnit test result report
+      * Publish HTML reports
+      * build notifiers
+         * Email
+         * Editable email notification 
+         * IRC
+         * Twitter
+         * Hudson Speaks!
 
 * Hudson administration
    * installing hudson
