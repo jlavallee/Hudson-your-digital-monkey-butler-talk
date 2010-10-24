@@ -48,6 +48,14 @@ slides{
         img[src=./hudson_new_job.png]
     }
     slide{
+        h3{build types}
+        * free-style 
+        * maven2
+        * monitor
+        * multi-configuration
+        * copy existing
+    }
+    slide{
         img[src=./hudson_test_specific_configure_labeled.png]
     }
     slide{
@@ -58,6 +66,9 @@ slides{
     }
     slide{
         img[src=./hudson_test_specific_add_build_step_labeled.png]
+    }
+    slide{
+        img[src=./hudson_test_specific_build_step_labeled.png]
     }
     slide{
         img[src=./hudson_test_specific_save_labeled.png]
@@ -91,6 +102,9 @@ slides{
     }
     slide{
         img[src=./hudson_homepage_with_new_job_labeled.png]
+    }
+    slide{
+        img[src=./slidez/hudson_homepage_admin_labeled.png]
     }
     slide{
         demo...
