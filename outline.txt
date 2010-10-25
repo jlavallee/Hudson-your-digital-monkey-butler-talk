@@ -1,5 +1,3 @@
----- Hudson talk outline
-
 * Brief intro
    * what is hudson
    * other CI tools
