@@ -104,7 +104,125 @@ slides{
         img[src=./hudson_homepage_with_new_job_labeled.png]
     }
     slide{
+        h3{Installing Hudson}
+        see a[href=http://hudson-ci.org]{http://hudson-ci.org}
+        * OS-specific packages
+           * Ubuntu/Debian
+           * RedHat/Fedora/CentOS
+           * openSUSE
+           * OpenSolaris/Nevada
+           * FreeBSD
+        * Vanilla install
+           * wget a[href=http://hudson-ci.org/latest/hudson.war]{http://hudson-ci.org/latest/hudson.war}
+    }
+    slide{
+        h3{Installing Hudson}
+        * use a pacakge if you can
+           * easier upgrades
+           * creates a user and start/stop script for you
+        * install by hand
+           * /usr/bin/java -jar /path/to/hudson.war
+           * use a dedicated user, E.G. hudson
+           * create a start/stop script
+    }
+    slide{
         img[src=./hudson_homepage_admin_labeled.png]
+    }
+    slide{
+        img[src=./hudson_manage_hudson_1_labeled.png]
+    }
+    slide{
+        img[src=./hudson_manage_hudson_2_labeled.png]
+    }
+    slide{
+        img[src=./hudson_plugin_manager_updates.png]
+    }
+    slide{
+        img[src=./hudson_plugin_manager_update_three.png]
+    }
+    slide{
+        img[src=./hudson_plugins_updating.png]
+    }
+    slide{
+        img[src=./hudson_plugins_updating_2.png]
+    }
+    slide{
+        img[src=./hudson_plugins_updating_3.png]
+    }
+    slide{
+        img[src=./hudson_plugin_manager_updated.png]
+    }
+    slide{
+        img[src=./hudson_manage_hudson_shutdown_labeled.png]
+    }
+    slide{
+        img[src=./hudson_restart_labeled.png]
+    }
+    slide{
+        img[src=./hudson_restart_linux_labeled.png]
+    }
+    slide{
+        img[src=./hudson_starting_up.png]
+    }
+    slide{
+        img[src=./hudson_homepage_admin_labeled.png]
+    }
+    slide{
+        img[src=./hudson_plugin_manager_available.png]
+    }
+    slide{
+        img[src=./hudson_plugins_install_shelve_plugin.png]
+    }
+    slide{
+        img[src=./hudson_plugins_installing_shelve.png]
+    }
+    slide{
+        img[src=./hudson_plugins_installing_shelve_2.png]
+    }
+    slide{
+        img[src=./hudson_plugins_installing_shelve_3.png]
+    }
+    slide{
+        img[src=./hudson_plugins_installed_top_labeled.png]
+    }
+    slide{
+        img[src=./hudson_plugins_installed_middle_labeled.png]
+    }
+    slide{
+        img[src=./hudson_plugins_installed_bottom_labeled.png]
+    }
+    slide{
+        img[src=./hudson_manage_nodes_link_labeled.png]
+    }
+    slide{
+        img[src=./hudson_manage_nodes_labeled.png]
+    }
+    slide{
+        img[src=./hudson_manage_nodes_2_labeled.png]
+    }
+    slide{
+        img[src=./hudson_add_node_prickle.png]
+    }
+    slide{
+        img[src=./hudson_add_node_prickle_config_labeled.png]
+    }
+    slide{
+        img[src=./hudson_add_node_prickle_config_labeled.png]
+    }
+    slide{
+        img[src=./hudson_add_node_prickle_config_1_labeled.png]
+    }
+    slide{
+        img[src=./hudson_add_node_prickle_config_2_labeled.png]
+    }
+    slide{
+        img[src=./hudson_add_node_prickle_config_3_labeled.png]
+    }
+    slide{
+        img[src=./hudson_add_node_prickle_config_4_labeled.png]
+    }
+    slide{
+        img[src=./hudson_add_node_prickle_config_5_labeled.png]
     }
     slide{
         demo...
