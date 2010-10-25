@@ -153,21 +153,6 @@ slides{
         img[src=./hudson_plugin_manager_updated.png]
     }
     slide{
-        img[src=./hudson_manage_hudson_shutdown_labeled.png]
-    }
-    slide{
-        img[src=./hudson_restart_labeled.png]
-    }
-    slide{
-        img[src=./hudson_restart_linux_labeled.png]
-    }
-    slide{
-        img[src=./hudson_starting_up.png]
-    }
-    slide{
-        img[src=./hudson_homepage_admin_labeled.png]
-    }
-    slide{
         img[src=./hudson_plugin_manager_available.png]
     }
     slide{
@@ -181,6 +166,21 @@ slides{
     }
     slide{
         img[src=./hudson_plugins_installing_shelve_3.png]
+    }
+    slide{
+        img[src=./hudson_manage_hudson_shutdown_labeled.png]
+    }
+    slide{
+        img[src=./hudson_restart_labeled.png]
+    }
+    slide{
+        img[src=./hudson_restart_linux_labeled.png]
+    }
+    slide{
+        img[src=./hudson_starting_up.png]
+    }
+    slide{
+        img[src=./hudson_homepage_admin_labeled.png]
     }
     slide{
         img[src=./hudson_plugins_installed_top_labeled.png]
@@ -223,9 +223,6 @@ slides{
     }
     slide{
         img[src=./hudson_add_node_prickle.png]
-    }
-    slide{
-        img[src=./hudson_add_node_prickle_config_labeled.png]
     }
     slide{
         img[src=./hudson_add_node_prickle_config_labeled.png]
