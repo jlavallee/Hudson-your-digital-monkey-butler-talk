@@ -186,10 +186,31 @@ slides{
         img[src=./hudson_plugins_installed_top_labeled.png]
     }
     slide{
+        img[src=./hudson_plugins_installed_top_1_labeled.png]
+    }
+    slide{
+        img[src=./hudson_plugins_installed_top_2_labeled.png]
+    }
+    slide{
+        img[src=./hudson_plugins_installed_top_3_labeled.png]
+    }
+    slide{
         img[src=./hudson_plugins_installed_middle_labeled.png]
     }
     slide{
+        img[src=./hudson_plugins_installed_middle_1_labeled.png]
+    }
+    slide{
+        img[src=./hudson_plugins_installed_middle_2_labeled.png]
+    }
+    slide{
         img[src=./hudson_plugins_installed_bottom_labeled.png]
+    }
+    slide{
+        img[src=./hudson_plugins_installed_bottom_1_labeled.png]
+    }
+    slide{
+        img[src=./hudson_plugins_installed_bottom_2_labeled.png]
     }
     slide{
         img[src=./hudson_manage_nodes_link_labeled.png]
@@ -223,6 +244,9 @@ slides{
     }
     slide{
         img[src=./hudson_add_node_prickle_config_5_labeled.png]
+    }
+    slide{
+        img[src=./hudson_homepage_with_new_node_labeled.png]
     }
     slide{
         demo...
