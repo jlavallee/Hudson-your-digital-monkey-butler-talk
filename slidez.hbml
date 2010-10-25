@@ -243,6 +243,9 @@ slides{
         img[src=./hudson_add_node_prickle_config_5_labeled.png]
     }
     slide{
+        img[src=./hudson_node_added.png]
+    }
+    slide{
         img[src=./hudson_homepage_with_new_node_labeled.png]
     }
     slide{
