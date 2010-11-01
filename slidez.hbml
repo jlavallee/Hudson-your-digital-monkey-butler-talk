@@ -252,6 +252,17 @@ slides{
         img[src=./hudson_homepage_with_new_node_labeled.png]
     }
     slide{
+        h3{Why nodes?}
+        * spread load
+        * build on different operating systems
+            * packaging (RPMs or .debs)
+            * Selenium testing 
+            * 32-bit vs. 64-bit
+        * nodes offline themselves automatically (I.E. full filesystem)
+            * taking the master node offline sucks!
+        * integration testing
+    }
+    slide{
         demo...
     }
 }#slides;
