@@ -135,6 +135,39 @@ slides{
         img[src=./hudson_manage_hudson_2_labeled.png]
     }
     slide{
+        img[src=./hudson_manage_hudson_configure_system_labeled.png]
+    }
+    slide{
+        img[src=./hudson_main_configuration_labeled.png]
+    }
+    slide{
+        img[src=./hudson_main_configuration_1_labeled.png]
+    }
+    slide{
+        img[src=./hudson_main_configuration_2_labeled.png]
+    }
+    slide{
+        img[src=./hudson_main_configuration_1.png]
+    }
+    slide{
+        img[src=./hudson_main_configuration_3.png]
+    }
+    slide{
+        img[src=./hudson_main_configuration_3_labeled.png]
+    }
+    slide{
+        img[src=./hudson_main_configuration_4_labeled.png]
+    }
+    slide{
+        img[src=./hudson_main_configuration_5_labeled.png]
+    }
+    slide{
+        img[src=./hudson_main_configuration_6_labeled.png]
+    }
+    slide{
+        img[src=./hudson_manage_hudson_manage_plugins_labeled.png]
+    }
+    slide{
         img[src=./hudson_plugin_manager_updates.png]
     }
     slide{
@@ -255,12 +288,11 @@ slides{
         h3{Why nodes?}
         * spread load
         * build on different operating systems
-            * packaging (RPMs or .debs)
-            * Selenium testing 
-            * 32-bit vs. 64-bit
+           * packaging (RPMs or .debs)
+           * Selenium testing 
+           * 32-bit vs. 64-bit
         * nodes offline themselves automatically (I.E. full filesystem)
-            * taking the master node offline sucks!
-        * integration testing
+           * taking the master node offline sucks!
     }
     slide{
         demo...
