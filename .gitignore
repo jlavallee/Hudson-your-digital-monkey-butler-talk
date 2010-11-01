@@ -1,2 +1,2 @@
 .*.sw*
-slidez/*.html
+slidez/[0-9]*.html
