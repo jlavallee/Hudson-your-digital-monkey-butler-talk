@@ -121,9 +121,9 @@ slides{
            * easier upgrades
            * creates a user and start/stop script for you
         * install by hand
-           * /usr/bin/java -jar /path/to/hudson.war
            * use a dedicated user, E.G. hudson
            * create a start/stop script
+           * /usr/bin/java -jar /path/to/hudson.war
     }
     slide{
         img[src=./hudson_homepage_admin_labeled.png]
@@ -169,6 +169,9 @@ slides{
     }
     slide{
         img[src=./hudson_manage_hudson_shutdown_labeled.png]
+    }
+    slide{
+        img[src=./hudson_prepare_for_shutdown.png]
     }
     slide{
         img[src=./hudson_restart_labeled.png]
