@@ -364,4 +364,12 @@ slides{
     slide{
         img[src=./hudson_claimed_2_labeled.png]
     }
+    slide{
+        h3{Questions?}
+    }
+    slide{
+        h3{Thanks!}
+        * a[href=http://scratchcomputing.com/]{ewilhelm} for a[href=http://search.cpan.org/dist/Text-Slidez]{Text::Slidez}
+        * a[href=http://kohsuke.org/]{kohsuke} for a[href=http://hudson-ci.org]{Hudson}!
+    }
 }

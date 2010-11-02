@@ -1,11 +1,5 @@
-add mention of Claim plugin
-add mention of Dashboard plugin
-
 advanced job configuration
     * # of builds to keep
     * # of builds with artifacts to keep
 
 
-add Thanks
-    * ewilhelm for Text::Slidez
-    * kohsuke for Hudson!
