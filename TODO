@@ -5,13 +5,6 @@ advanced job configuration
     * # of builds to keep
     * # of builds with artifacts to keep
 
-Why CIB?
-    * somebody doesn't run the tests
-    * you may have local changes that don't get checked in (p4 add anyone?)
-    * constant feedback to everybody about status of the code
-    * verify one piece of software works with another
-        * builds can trigger one or more other builds
-    * automate, automate, automate
 
 add Thanks
     * ewilhelm for Text::Slidez
