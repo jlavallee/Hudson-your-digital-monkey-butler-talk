@@ -324,7 +324,7 @@ slides{
            * packaging (RPMs or .debs)
            * Selenium testing 
            * 32-bit vs. 64-bit
-           * some nodes may have special abilities (I.E. OracleXE installed)
+           * some nodes may have special abilities (I.E. PostgreSQL installed)
         * nodes offline themselves automatically (I.E. full filesystem)
            * taking the master node offline sucks!
     }
@@ -345,5 +345,11 @@ slides{
     }
     slide{
         img[src=./hudson_pissed_chuck_labeled.png]
+    }
+    slide{
+        img[src=./hudson_dashboard_view_top_labeled.png]
+    }
+    slide{
+        img[src=./hudson_dashboard_view_bottom.png]
     }
 }
