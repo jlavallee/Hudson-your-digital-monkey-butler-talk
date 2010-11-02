@@ -352,4 +352,16 @@ slides{
     slide{
         img[src=./hudson_dashboard_view_bottom.png]
     }
+    slide{
+        img[src=./hudson_claim_it_labeled.png]
+    }
+    slide{
+        img[src=./hudson_claim_it_2.png]
+    }
+    slide{
+        img[src=./hudson_claimed.png]
+    }
+    slide{
+        img[src=./hudson_claimed_2_labeled.png]
+    }
 }
