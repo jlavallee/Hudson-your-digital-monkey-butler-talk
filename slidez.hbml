@@ -84,7 +84,6 @@ slides{
         * maven2
         * monitor
         * multi-configuration
-        * copy existing
     }
     slide{
         img[src=./hudson_test_specific_configure_labeled.png]
@@ -235,7 +234,7 @@ slides{
         img[src=./hudson_manage_hudson_shutdown_labeled.png]
     }
     slide{
-        img[src=./hudson_prepare_for_shutdown.png]
+        img[src=./hudson_prepare_for_shutdown_labeled.png]
     }
     slide{
         img[src=./hudson_restart_labeled.png]
@@ -260,6 +259,9 @@ slides{
     }
     slide{
         img[src=./hudson_plugins_installed_top_3_labeled.png]
+    }
+    slide{
+        img[src=./hudson_plugins_installed_top_4_labeled.png]
     }
     slide{
         img[src=./hudson_plugins_installed_middle_labeled.png]
@@ -327,6 +329,21 @@ slides{
            * taking the master node offline sucks!
     }
     slide{
-        demo...
+        h3{Node Tagging}
+        * tags are arbitrary
+        * examples:
+           * OS: Debian, RedHat, WindowsXP, Vista
+           * OS type: Linux, BSD, Windows
+           * available software: Redis, OracleXE, PostgreSQL
+        * whatever makes sense for you
     }
-}#slides;
+    slide{
+        h3{A few of my favorite plugins...}
+    }
+    slide{
+        img[src=./hudson_happy_chuck_labeled.png]
+    }
+    slide{
+        img[src=./hudson_pissed_chuck_labeled.png]
+    }
+}
