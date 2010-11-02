@@ -11,13 +11,43 @@ slides{
         jeff@zeroclue.com
     }
     slide{
-        h3{ What is Hudson? }
+        h3{What is Hudson?}
         a continuous integration build server
+    }
+    slide{
+        h3{What is Continuous Integration?}
+        * Continuous Integration recommended practices
+           * Maintain a code repository
+           * Automate the build
+           * Make the build self-testing
+           * Everyone commits every day
+           * Every commit should be built
+           * Keep the build fast
+           * Test in a clone of the production environment
+           * Make it easy to get the latest deliverables
+           * Everyone can see the results of the latest build
+           * Automate deployment
+    }
+    slide{
+        h3{Why CIB?}
+        * somebody doesn't run the tests
+        * "it works on my box"
+           * incomplete commits
+           * development env != deployment env
+        * constant feedback about status of the code
+        * verify one piece of software works with another
+           * builds can trigger one or more other builds
+        * automate, automate, automate
+    }
+    slide{
+        h3{Where does Hudson fit?}
         * Hudson continuously:
            * looks for commits
            * builds when it finds changes
-           * runs tests
-           * generates build artifacts
+           * runs tests as part of the build
+           * makes build results visible
+           * alerts when builds fail
+           * makes build artifacts available
         * can do a lot more
     }
     slide{
