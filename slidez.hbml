@@ -25,6 +25,7 @@ slides{
         * CruiseControl
         * TeamCity
         * BuildBot
+        * nobr{and a[href=http://en.wikipedia.org/wiki/Comparison_of_Continuous_Integration_Software]{many more}...}
     }
     slide{
         img[src=./hudson_homepage.png]
