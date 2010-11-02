@@ -292,6 +292,7 @@ slides{
            * packaging (RPMs or .debs)
            * Selenium testing 
            * 32-bit vs. 64-bit
+           * some nodes may have special abilities (I.E. OracleXE installed)
         * nodes offline themselves automatically (I.E. full filesystem)
            * taking the master node offline sucks!
     }
