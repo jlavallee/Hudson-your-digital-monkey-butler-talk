@@ -79,13 +79,6 @@ slides{
         img[src=./hudson_new_job.png]
     }
     slide{
-        h3{build types}
-        * free-style
-        * maven2
-        * monitor
-        * multi-configuration
-    }
-    slide{
         img[src=./hudson_test_specific_configure_labeled.png]
     }
     slide{
