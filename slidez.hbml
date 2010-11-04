@@ -364,6 +364,10 @@ slides{
     }
     slide{
         h3{Questions?}
+        p{}br{}
+        small{and/or}
+        p{}br{}
+        h3{live demo requests?}
     }
     slide{
         h3{Thanks!}
