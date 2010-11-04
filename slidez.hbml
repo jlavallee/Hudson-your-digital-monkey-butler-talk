@@ -29,7 +29,6 @@ slides{
            * Automate deployment
     }
     slide{
-        * somebody doesn't run the tests
         h3{Why Continuous Integration?}
         * somebody  small{(doh! that was me!)}  doesn't run the tests
         * "it works on my box"
