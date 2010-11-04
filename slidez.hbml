@@ -70,7 +70,12 @@ slides{
         img[src=./hudson_logged_in_labeled.png]
     }
     slide{
+        h3{An example build result page}
+    }
+    slide{
         img[src=./hudson_perl_redis_labeled.png]
+        # slide needs work - split into lots 'o arrows
+        # TODO: other examples?  (Java Buildw/lots 'o bells & whistles?
     }
     slide{
         img[src=./hudson_new_job_button.png]
