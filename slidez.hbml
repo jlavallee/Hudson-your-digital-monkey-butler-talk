@@ -250,15 +250,6 @@ slides{
         img[src=./hudson_plugins_installed_top_labeled.png]
     }
     slide{
-        img[src=./hudson_plugins_installed_top_1_labeled.png]
-    }
-    slide{
-        img[src=./hudson_plugins_installed_top_2_labeled.png]
-    }
-    slide{
-        img[src=./hudson_plugins_installed_top_3_labeled.png]
-    }
-    slide{
         img[src=./hudson_plugins_installed_top_4_labeled.png]
     }
     slide{
@@ -339,16 +330,16 @@ slides{
         h3{A few of my favorite plugins...}
     }
     slide{
+        img[src=./hudson_plugins_installed_top_1_labeled.png]
+    }
+    slide{
         img[src=./hudson_happy_chuck_labeled.png]
     }
     slide{
         img[src=./hudson_pissed_chuck_labeled.png]
     }
     slide{
-        img[src=./hudson_dashboard_view_top_labeled.png]
-    }
-    slide{
-        img[src=./hudson_dashboard_view_bottom.png]
+        img[src=./hudson_plugins_installed_top_2_labeled.png]
     }
     slide{
         img[src=./hudson_claim_it_labeled.png]
@@ -361,6 +352,15 @@ slides{
     }
     slide{
         img[src=./hudson_claimed_2_labeled.png]
+    }
+    slide{
+        img[src=./hudson_plugins_installed_top_3_labeled.png]
+    }
+    slide{
+        img[src=./hudson_dashboard_view_top_labeled.png]
+    }
+    slide{
+        img[src=./hudson_dashboard_view_bottom.png]
     }
     slide{
         h3{Questions?}
