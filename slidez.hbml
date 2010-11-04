@@ -29,8 +29,9 @@ slides{
            * Automate deployment
     }
     slide{
-        h3{Why CIB?}
         * somebody doesn't run the tests
+        h3{Why Continuous Integration?}
+        * somebody  small{(doh! that was me!)}  doesn't run the tests
         * "it works on my box"
            * incomplete commits
            * development env != deployment env
