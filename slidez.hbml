@@ -3,9 +3,7 @@
 slides{
     slide{
         h3{Hudson - your digital monkey butler}
-        #Hudson 
-        #p[style=medium]{your personal digial monkey butler}
-        p[style=small]{an Open Source continuous integration build system that is more fun than not!}
+        img[src=monkeybutler.png]
         \---;
         Jeff Lavallee
         jeff@zeroclue.com
