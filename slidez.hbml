@@ -151,7 +151,7 @@ slides{
         * install by hand
            * use a dedicated user, E.G. hudson
            * create a start/stop script
-           * /usr/bin/java -jar /path/to/hudson.war
+           # (basically /usr/bin/java -jar /path/to/hudson.war)
     }
     slide{
         img[src=./hudson_homepage_admin_labeled.png]
