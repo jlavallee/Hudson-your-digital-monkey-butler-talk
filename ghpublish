@@ -1,5 +1,8 @@
 #!/bin/sh
 
+echo "broken."
+exit 1
+
 # This script is experimental. Please understand it before you run it on
 # your system. Just because Jeff borrowed it from Ingy and hacked it a
 # bit, doesn't mean it will work for you.
