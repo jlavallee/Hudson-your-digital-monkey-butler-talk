@@ -62,7 +62,7 @@ slides{
         img[src=./hudson_homepage_labeled.png]
     }
     slide{
-        img[src=./hudson_log_in_labeled.png]
+        img[src=./hudson_log_in.png]
     }
     slide{
         img[src=./hudson_logged_in_labeled.png]
