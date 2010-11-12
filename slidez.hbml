@@ -361,6 +361,9 @@ slides{
         img[src=./hudson_dashboard_view_bottom.png]
     }
     slide{
+        h3{live demo}
+    }
+    slide{
         h3{Questions?}
         p{}br{}
         small{and/or}
